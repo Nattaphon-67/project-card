@@ -22,13 +22,13 @@ def main():
     
     # สร้างข้อมูลนักศึกษา (ตัวอย่างจากบัตร)
     student_data = {
-        "student_id": "67123456",
-        "first_name_th": "ลิซ่า",
-        "last_name_th": "Blackpink",
-        "first_name_en": "Lisa",
-        "last_name_en": "Blackpink",
+        "student_id": "674259006",
+        "first_name_th": "ณัฐพล",
+        "last_name_th": "กลิ่นจุ่น",
+        "first_name_en": "Nattaphon",
+        "last_name_en": "Klinjun",
         "faculty": "คณะวิทยาศาสตร์และเทคโนโลยี",
-        "photo_path": "assets/photos/lisa.jpg",
+        "photo_path": "assets/photos/nattaphon.jpg",
     }
     
     # สร้างนักศึกษา
